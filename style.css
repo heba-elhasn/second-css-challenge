@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    Font-size: 15px;
+    background-color: #808080;
+}
+
+.parent {
+    background-color: hsl(233, 47%, 7%);
+    margin: auto;
+}
+
+.main-section {
+    background-color: hsl(244, 38%, 16%);
+
+
+}
+
+h2 {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+span {
+    color: hsl(277, 64%, 61%);
+}
